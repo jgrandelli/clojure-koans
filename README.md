@@ -112,6 +112,8 @@ will show you what those commands mean.
 
 You can exit the REPL with `CTRL-d` on any OS.
 
+### Resources
+There are some great docs and cheat sheets available at http://clojure.org/documentation
 
 ### Contributing
 
