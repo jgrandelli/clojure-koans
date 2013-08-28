@@ -114,6 +114,7 @@ You can exit the REPL with `CTRL-d` on any OS.
 
 ### Resources
 There are some great docs and cheat sheets available at http://clojure.org/documentation
+You can find some videos to help with koans on youtube http://www.youtube.com/playlist?list=PL1p6TgkbKXqyOwq6iSkce_EY5YWFHciHt
 
 ### Contributing
 
